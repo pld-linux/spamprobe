@@ -9,6 +9,7 @@ Source0:	http://dl.sourceforge.net/spamprobe/%{name}-%{version}.tar.gz
 # Source0-md5:	8b33a8fc1da7a29f1706c6014c17d18e
 URL:		http://spamprobe.sourceforge.net/
 BuildRequires:	db-devel
+BuildRequires:	libstdc++-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
