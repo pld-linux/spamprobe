@@ -1,5 +1,4 @@
 Summary:	SpamProbe - fast bayesian spam filter
-Summary(pl):	Demon dla mks - antywirusowe narzêdzie dla Unixów
 Name:		spamprobe
 Version:	0.8b
 Release:	1
