@@ -1,12 +1,12 @@
 Summary:	SpamProbe - fast bayesian spam filter
 Summary(pl):	SpamProbe - szybki bayesjañski filtr antyspamowy
 Name:		spamprobe
-Version:	1.0
+Version:	1.1x1
 Release:	1
 License:	QPL
 Group:		Applications
 Source0:	http://dl.sourceforge.net/spamprobe/%{name}-%{version}.tar.gz
-# Source0-md5:	b89ea078e9f46926d2ae7ba2e8dfbfea
+# Source0-md5:	db8b1c14918093b05ef4b4baf9978d6c
 # Source0-size:	166156
 URL:		http://spamprobe.sourceforge.net/
 BuildRequires:	db-devel
@@ -45,5 +45,6 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
+%doc ChangeLog README.txt
 %attr(755,root,root) %{_bindir}/*
 %{_mandir}/man1/*
