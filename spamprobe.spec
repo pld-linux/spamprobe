@@ -1,12 +1,12 @@
 Summary:	SpamProbe - fast bayesian spam filter
 Summary(pl):	SpamProbe - szybki bayesowski filtr antyspamowy
 Name:		spamprobe
-Version:	1.1x7
+Version:	1.4b
 Release:	1
 License:	QPL
 Group:		Applications
 Source0:	http://dl.sourceforge.net/spamprobe/%{name}-%{version}.tar.gz
-# Source0-md5:	e7e0d97c08fb96c4b1733aea4b2ddd85
+# Source0-md5:	735a5ef084ca09a39fb88a0334fcc68e
 URL:		http://spamprobe.sourceforge.net/
 BuildRequires:	db-devel
 BuildRequires:	libstdc++-devel
