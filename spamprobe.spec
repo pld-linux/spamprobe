@@ -1,5 +1,5 @@
 Summary:	SpamProbe - fast bayesian spam filter
-Summary(pl.UTF-8):   SpamProbe - szybki bayesowski filtr antyspamowy
+Summary(pl.UTF-8):	SpamProbe - szybki bayesowski filtr antyspamowy
 Name:		spamprobe
 Version:	1.4b
 Release:	1
