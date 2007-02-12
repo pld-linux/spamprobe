@@ -1,5 +1,5 @@
 Summary:	SpamProbe - fast bayesian spam filter
-Summary(pl):	SpamProbe - szybki bayesowski filtr antyspamowy
+Summary(pl.UTF-8):   SpamProbe - szybki bayesowski filtr antyspamowy
 Name:		spamprobe
 Version:	1.4b
 Release:	1
@@ -18,12 +18,12 @@ Bayesian analysis of word counts in spam and non-spam emails.
 Filtering adapts to personal tastes automatically. No manual rule
 creation required. Intended for use with procmail, maild.
 
-%description -l pl
-Szybki, inteligentny, automatyczny wykrywacz spamu u¿ywaj±cy odmiany
-Paula Grahama bayesowskiej analizy liczby s³ów w listach bêd±cych i
-nie bêd±cych spamem. Filtrowanie automatycznie dostosowuje siê do
-osobistych gustów. Nie jest wymagane rêczne tworzenie regu³. Program
-mo¿e byæ u¿ywany z procmailem lub maild.
+%description -l pl.UTF-8
+Szybki, inteligentny, automatyczny wykrywacz spamu uÅ¼ywajÄ…cy odmiany
+Paula Grahama bayesowskiej analizy liczby sÅ‚Ã³w w listach bÄ™dÄ…cych i
+nie bÄ™dÄ…cych spamem. Filtrowanie automatycznie dostosowuje siÄ™ do
+osobistych gustÃ³w. Nie jest wymagane rÄ™czne tworzenie reguÅ‚. Program
+moÅ¼e byÄ‡ uÅ¼ywany z procmailem lub maild.
 
 %prep
 %setup -q
